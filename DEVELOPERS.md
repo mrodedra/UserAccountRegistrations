@@ -6,7 +6,7 @@ Once user is created, user can apply for a new account, list all accounts
 
 
      Steps: 
-     1. Get code from git repository 'https://github.com/mrodedra/UserAccountRegistration.git'
+     1. Get code from git repository 'https://github.com/mrodedra/UserAccountRegistrations.git'
 
      2. Database Creation:
         There are 2 tables, User and Account. User can have multiple account so there is One-To-Many relationship between User and Account
